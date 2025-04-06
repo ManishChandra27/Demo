@@ -1,3 +1,3 @@
 # Demo
-This is demo For learn Git hub
+This is demo to learn Git hub
 my name is Badmosh
